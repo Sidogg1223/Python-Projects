@@ -13,3 +13,4 @@ print(parrot[10:])
 print(parrot[:6] + parrot[6: ])
 
 print (parrot[:])
+print(parrot)
